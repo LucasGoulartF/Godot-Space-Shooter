@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Jump_7.wav-81b608dd1b0e7eee25a57f66187e4995.sample"
+
+[deps]
+
+source_file="res://Music/Classic Arcade SFX/Jumps/Jump_7.wav"
+dest_files=[ "res://.import/Jump_7.wav-81b608dd1b0e7eee25a57f66187e4995.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

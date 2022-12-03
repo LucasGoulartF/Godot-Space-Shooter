@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Repeating shot.wav-6adc2f478ee3bd83cbc34f3e7478a212.sample"
+
+[deps]
+
+source_file="res://Music/Classic Arcade SFX/Lasers and shooting/Repeating shot.wav"
+dest_files=[ "res://.import/Repeating shot.wav-6adc2f478ee3bd83cbc34f3e7478a212.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

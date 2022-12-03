@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Coin_2.wav-946f7b7fab1a088439e32e2f5a04ed43.sample"
+
+[deps]
+
+source_file="res://Music/Classic Arcade SFX/coins/Coin_2.wav"
+dest_files=[ "res://.import/Coin_2.wav-946f7b7fab1a088439e32e2f5a04ed43.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

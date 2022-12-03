@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Power_up_7.wav-f3d758fc6d97d50cac2cd00d2d00ba5f.sample"
+
+[deps]
+
+source_file="res://Music/Classic Arcade SFX/Power ups and power downs/Power_up_7.wav"
+dest_files=[ "res://.import/Power_up_7.wav-f3d758fc6d97d50cac2cd00d2d00ba5f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

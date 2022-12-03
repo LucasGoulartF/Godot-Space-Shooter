@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Bass climb to static.wav-b164a73e1c1d06465ff2a0744fabfee1.sample"
+
+[deps]
+
+source_file="res://Music/Classic Arcade SFX/Misc/Bass climb to static.wav"
+dest_files=[ "res://.import/Bass climb to static.wav-b164a73e1c1d06465ff2a0744fabfee1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
